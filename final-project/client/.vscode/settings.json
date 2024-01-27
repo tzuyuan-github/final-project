@@ -1,7 +1,7 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.background": "#074e39",
-        "titleBar.activeBackground": "#074e39",
+        "activityBar.background": "#243c4e",
+        "titleBar.activeBackground": "#507fa1",
         "titleBar.activeForeground": "#FBFAFA"
     },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -10,5 +10,6 @@
     "editor.codeActionsOnSave": [
         "source.formatDocument",
         "source.fixAll.eslint"
-    ]
+    ],
+    "liveServer.settings.port": 5502
 }

@@ -2,8 +2,11 @@
 const nextConfig = {
   reactStrictMode: false,
   images: {
-    domains: ['via.placeholder.com', 'localhost'],
+    domains: ['via.placeholder.com', 'localhost', 'lh3.googleusercontent.com'],
   },
+
+  // NOTE: Access to Google profile img
+
   // comment for render twice issue
   // avoid cors with proxy
   // async rewrites() {

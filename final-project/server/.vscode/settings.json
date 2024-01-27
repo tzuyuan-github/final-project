@@ -1,16 +1,15 @@
 {
-  "workbench.colorCustomizations": {
-    "activityBar.background": "#b88d03",
-    "titleBar.activeBackground": "#c49410",
-    "titleBar.activeForeground": "#FBFAFA"
-  },
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "prettier.configPath": ".prettierrc.json",
-  "editor.formatOnSave": false,
-  "editor.codeActionsOnSave": ["source.formatDocument", "source.fixAll.eslint"],
-  "[sql]": {
-    "editor.defaultFormatter": "mtxr.sqltools"
-  },
-  "javascript.preferences.importModuleSpecifierEnding": "js",
-  "typescript.preferences.importModuleSpecifierEnding": "js"
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#565656",
+        "titleBar.activeBackground": "#626060",
+        "titleBar.activeForeground": "#FBFAFA"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.configPath": ".prettierrc.json",
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": [
+        "source.formatDocument",
+        "source.fixAll.eslint"
+    ],
+    "liveServer.settings.port": 5502
 }
